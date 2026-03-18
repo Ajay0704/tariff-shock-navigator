@@ -1,0 +1,5 @@
+country_clean,total_import_value_usd,total_tariff_exposure_usd,product_count,avg_tariff_rate_pct,risk_score,risk_tier,effective_tariff_rate_pct,import_value_B,tariff_exposure_B
+Mexico,472907368135,3004787865.6,10245,1.8404099560761347,2.8,Low,0.6354,472.907,3.005
+China,427246582836,109223776150.56999,14363,26.58664624382093,9.2,Critical,25.5646,427.247,109.224
+Vietnam,114408343727,52627838114.42,6887,46.0,6.8,High,46.0,114.408,52.628
+India,83557090891,21724843631.66,10832,26.0,4.5,Medium,26.0,83.557,21.725
