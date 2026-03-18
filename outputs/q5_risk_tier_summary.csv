@@ -1,0 +1,5 @@
+risk_tier,country,product_lines,import_value_B,exposure_B,avg_composite_risk,avg_tariff_rate_pct
+High,Vietnam,6887,114.408,52.628,7.76,46.0
+Critical,China,14363,427.247,109.224,7.647,26.59
+Medium,India,10832,83.557,21.725,4.78,26.0
+Low,Mexico,10245,472.907,3.005,1.827,1.84

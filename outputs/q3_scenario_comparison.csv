@@ -1,0 +1,13 @@
+scenario,scenario_label,country,total_exposure_B,avg_rate_pct,product_lines
+baseline,Baseline (Current Tariffs),China,109.224,26.5866,14363
+baseline,Baseline (Current Tariffs),Vietnam,52.628,46.0,6887
+baseline,Baseline (Current Tariffs),India,21.725,26.0,10832
+baseline,Baseline (Current Tariffs),Mexico,3.005,1.8404,10245
+escalation,Escalation (+25% across all),China,136.53,33.2333,14363
+escalation,Escalation (+25% across all),Vietnam,65.785,57.5,6887
+escalation,Escalation (+25% across all),India,27.156,32.5,10832
+escalation,Escalation (+25% across all),Mexico,3.756,2.3005,10245
+relief,Relief (-10% reduction),China,98.301,23.928,14363
+relief,Relief (-10% reduction),Vietnam,47.365,41.4,6887
+relief,Relief (-10% reduction),India,19.552,23.4,10832
+relief,Relief (-10% reduction),Mexico,2.704,1.6564,10245

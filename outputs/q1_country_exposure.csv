@@ -1,0 +1,5 @@
+country,product_lines,import_value_B,tariff_exposure_B,effective_rate_pct,risk_tier
+China,14363,427.247,109.224,25.5646,Critical
+Vietnam,6887,114.408,52.628,46.0,High
+India,10832,83.557,21.725,26.0,Medium
+Mexico,10245,472.907,3.005,0.6354,Low

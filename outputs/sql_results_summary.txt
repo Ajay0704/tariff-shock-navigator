@@ -1,0 +1,11 @@
+Tariff Shock Navigator - SQL Analysis Results Summary
+==================================================
+
+q1_country_exposure: 4 rows -> outputs/q1_country_exposure.csv
+q2_top_chapters: 15 rows -> outputs/q2_top_chapters.csv
+q3_scenario_comparison: 12 rows -> outputs/q3_scenario_comparison.csv
+q4_top_china_products: 20 rows -> outputs/q4_top_china_products.csv
+q5_risk_tier_summary: 4 rows -> outputs/q5_risk_tier_summary.csv
+q6_monthly_trends: 48 rows -> outputs/q6_monthly_trends.csv
+q7_bls_spikes: 20 rows -> outputs/q7_bls_spikes.csv
+q8_escalation_delta: 4 rows -> outputs/q8_escalation_delta.csv
