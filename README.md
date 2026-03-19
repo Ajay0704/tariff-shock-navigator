@@ -197,8 +197,8 @@ python scripts/05_exec_briefing.py
 
 ## Author
 
-**Arunachalam Thirumurthi**
+**Ajay karthick**
 MSBA - Northeastern University (Dec 2025)
-Operations Analyst | STEM OPT | Boston, MA
+Business Analyst | STEM OPT | Boston, MA
 
 Built for professional portfolio use. All data from public U.S. government APIs.
